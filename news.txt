@@ -1,2 +1,4 @@
-hyyyy
-heyy
+branches are a repository whivh allows you to create branches and work on a
+new feature 
+When branches are made,you can merge them into main branch.
+
